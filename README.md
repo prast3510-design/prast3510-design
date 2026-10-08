@@ -3,7 +3,7 @@
 Lulusan Teknik Informatika Universitas Indraprasta PGRI (UNINDRA) yang berminat di bidang pengembangan web dan aplikasi. Terbiasa mengerjakan proyek secara individu maupun tim, dan senang mempelajari teknologi baru.
 
 ## 🛠️ Skill
-- **Bahasa pemrograman:** Python, PHP, JavaScript, HTML/CSS
+- **Bahasa pemrograman:** Python, PHP, JavaScript, TypeScript, HTML/CSS
 - **Database:** MySQL
 - **Tools:** Git, GitHub
 - **Lainnya:** Logika Fuzzy (metode Sugeno), Microsoft Office
