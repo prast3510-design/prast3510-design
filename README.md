@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo, saya Ayub Dimas Prasetiyo 👋
 
-<!--
-**prast3510-design/prast3510-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lulusan Teknik Informatika Universitas Indraprasta PGRI (UNINDRA) yang berminat di bidang pengembangan web dan aplikasi. Terbiasa mengerjakan proyek secara individu maupun tim, dan senang mempelajari teknologi baru.
 
-Here are some ideas to get you started:
+## 🛠️ Skill
+- **Bahasa pemrograman:** Python, PHP, JavaScript, HTML/CSS
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+- **Lainnya:** Logika Fuzzy (metode Sugeno), Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyek Unggulan
+- **[fuzzy_sugeno_balita](https://github.com/prast3510-design/fuzzy_sugeno_balita)**: sistem untuk menentukan status gizi balita dengan metode fuzzy Sugeno
+- **[dimsum-choice-explorer](https://github.com/prast3510-design/dimsum-choice-explorer)**: aplikasi untuk membantu memilih menu dimsum
+
+## 📫 Kontak
+- Email: prast3510@gmail.com
+- LinkedIn: [Ayub Dimas Prasetiyo](https://www.linkedin.com/in/ayub-dimas-prasetyo-b32213291)
